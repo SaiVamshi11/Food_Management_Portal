@@ -1,2 +1,2 @@
 # Food_Management_Portal
-Hi, this is Sai Vamshi. This project is called Food Management Portal as it helps in connecting the wasted or leftover food from any restaurents or function halls to the NGOs or orphanages that are in the search of food donors. With the help of this website we can use leftover food for a good cause and feed the needy.
+Hi, this is Sai Vamshi. This project is called Job Application Portal. It stays as a connecting intermediate between verious Job aspirers and Hiring Companies.Both Companies and Applicants register in this portal and companies can see the applications and contact the particular applicant if they wish to go further.
